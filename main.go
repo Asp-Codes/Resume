@@ -78,7 +78,7 @@ func main() {
 			},
 			Contact: Contact{
 				Phone:    "+91 9398481212",
-				Resume:   "https://drive.google.com/file/d/1obnsLpnYesYonIfrvktA7mP6Z_kpPGnI/view?usp=sharing",
+				Resume:   "https://drive.google.com/file/d/1_lMBdbm3HoOij2vc7mm8f2cApkQ9Jhj9/view?usp=sharing",
 				LinkedIn: "https://www.linkedin.com/in/hemanth-kumar-reddy-89668b252/",
 			},
 			Note: "This JSON structure is written in Golang using the Gin framework.",
